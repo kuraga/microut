@@ -9,8 +9,8 @@
 */
 
 
-#ifndef __UT_H
-#define __UT_H
+#ifndef __MICROUT_H
+#define __MICROUT_H
 
 
 #include "config.h"
@@ -390,4 +390,4 @@ static bool __ut_run_test_suite(struct __ut_test_suite_desc *test_suite_desc)
 #endif
 
 
-#endif  // __UT_H
+#endif  // __MICROUT_H
