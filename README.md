@@ -1,9 +1,11 @@
 # microut
-Unit-testing (micro) tool (for C projects)
+
+(A prototype of) Unit-testing (micro) tool (for C projects).
 
 ```
 /*!
     \brief     Unit-testing (micro) tool (for C projects)
+    \version   0.1.0
     \author    Alexander Kurakin <kuraga333@mail.ru>
     \copyright © Alexander Kurakin, 2016
     \license   MIT
